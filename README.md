@@ -1,2 +1,2 @@
 # hyperblog
-blog increible de guit y github
+blog increible de guit y github.
